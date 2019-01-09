@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 9th, 2019 (Example 1)
+### Day 1: January 9th, 2019
 
 
 **Today's Progress**: Back to coding. Going through a tutorial about OOP PHP and MVC in Udemy. 
